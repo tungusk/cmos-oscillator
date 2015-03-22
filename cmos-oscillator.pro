@@ -1,10 +1,6 @@
-update=11/01/2015 18:31:38
+update=Sat 21 Mar 2015 05:48:16 PM PDT
 version=1
 last_client=kicad
-[general]
-version=1
-RootSch=
-BoardNm=
 [eeschema]
 version=1
 LibDir=
@@ -66,3 +62,5 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
